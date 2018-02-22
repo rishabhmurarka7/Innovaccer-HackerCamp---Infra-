@@ -1,11 +1,11 @@
 # Innovaccer-HackerCamp---Infra-
 
 
-------------------------------------------------------------------#
- Author  : Rishabh Murarka                                         # 
- Roll No.: 20172111                                                # 
-     ReadMe File for Infrastructure Engineering Assignment         # 
-------------------------------------------------------------------#
+------------------------------------------------------------------
+ Author  : Rishabh Murarka 
+ Roll No.: 20172111
+ ReadMe File for Infrastructure Engineering Assignment          
+------------------------------------------------------------------
 
 
 The program is menu driven which provides 2 options:
